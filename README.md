@@ -33,6 +33,9 @@ I'm a **2nd-year B.Tech student at VIT Bhopal**, navigating the world of **Artif
 <img src="https://github-readme-stats.vercel.app/api?username=Sneha-S9&show_icons=true&theme=dracula&hide_border=true" width="400" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-S9&layout=compact&theme=dracula&hide_border=true" width="300" />
 </p>
+<video src="https://github.com/Sneha-S9/Sneha-S9/raw/main/WhatsApp.Video.2026-03-25.at.23.44.13.mp4" width="400" />
+
+---
 
 ---
 
