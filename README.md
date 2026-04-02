@@ -42,10 +42,7 @@ I'm a **2nd-year B.Tech student at VIT Bhopal**, navigating the world of **Artif
 ### 📽 Let's Get to Know Each Other!
 *Here's a quick video intro I made for my profile:*
 
-<div align="left">
-  <video src="https://github.com/Sneha-S9/Sneha-S9/raw/main/WhatsApp.Video.2026-03-25.at.23.44.13.mp4" width="400" controls>
-    Your browser does not support the video tag.
-  </video>
-</div>
 
----
+https://github.com/user-attachments/assets/08ff30d9-a09a-4db0-84d5-90cf7bc592de
+
+
